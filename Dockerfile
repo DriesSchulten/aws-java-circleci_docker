@@ -1,4 +1,4 @@
-FROM circleci/openjdk:8-jdk
+FROM cimg/openjdk:11.0
 
 MAINTAINER Dries Schulten
 
